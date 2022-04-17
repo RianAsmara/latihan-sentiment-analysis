@@ -1,6 +1,7 @@
-Sentiment Analysis
-
 Klasifikasi sentimen sederhana menggunakan PyTorch dan IndoNLU.
+
+### Dataset
+- <a href="https://github.com/indobenchmark/indonlu/tree/master/dataset/smsa_doc-sentiment-prosa">IndoNLU Dataset</a>
 
 ### Tools
 - PyTorch
@@ -12,7 +13,6 @@ Klasifikasi sentimen sederhana menggunakan PyTorch dan IndoNLU.
 ### Processing
 - Cuda
 
-===============
 # Result
 
 ### Train
@@ -23,7 +23,7 @@ Klasifikasi sentimen sederhana menggunakan PyTorch dan IndoNLU.
 
 ![Screenshot from 2022-04-17 21-12-14](https://user-images.githubusercontent.com/17016896/163715851-fab378bf-9940-4128-9aaa-15d9e05ee6ec.png)
 
-### Predisi
+### Prediksi
 
 ![Screenshot from 2022-04-17 21-12-22](https://user-images.githubusercontent.com/17016896/163715863-dd44632f-758b-42d1-b5ba-e2302c535fde.png)
 
