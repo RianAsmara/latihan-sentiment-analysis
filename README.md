@@ -5,8 +5,7 @@ Klasifikasi sentimen sederhana menggunakan PyTorch dan IndoNLU.
 
 ### Tools
 - PyTorch
-- IndoNLU
-
+- 
 ### Optimizer
 - Adam
 
